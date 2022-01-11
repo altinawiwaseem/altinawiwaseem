@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Waseem   
 currently studying at DCI to become a full stack Developer  
-you Can reach me by Email: waseem@live.com
+you Can reach me by Email: wasemm@live.com
 
 <!--
 **altinawiwaseem/altinawiwaseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
