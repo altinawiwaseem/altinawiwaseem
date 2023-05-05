@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Waseem   
-Currently studying at DCI to become a full stack Developer  
+Welcome to my GitHub profile! I am a full-stack developer passionate about building web applications with modern technologies  
 You can reach me by Email: wasemm@live.com
 
 <!--
