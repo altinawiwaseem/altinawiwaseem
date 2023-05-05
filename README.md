@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Waseem   
-Welcome to my GitHub profile! I am a full-stack developer passionate about building web applications with modern technologies  
+Welcome to my GitHub profile! I am a full-stack developer passionate about building innovative and impactful solutions that solve complex problems and enhance user experience. 
 You can reach me by Email: wasemm@live.com
 
 <!--
